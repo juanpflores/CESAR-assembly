@@ -17,8 +17,8 @@ Por otro lado para poder descodificar el mensaje lo que se hace es tomar cada le
 
 Por ejemplo:
 
-    Texto codificado : GHIJKLMNÑOPQRSTUVWXYZABCDEF
-    Texto original: ABCDEFGHIJKLMNÑOPQRSTUVWXYZ
+    Texto codificado :  GHIJKLMNÑOPQRSTUVWXYZABCDEF
+    Texto original:     ABCDEFGHIJKLMNÑOPQRSTUVWXYZ
 
 ###Vulnerabilidades
 El cifrado César es un tipo de cifrado muy sencillo de resolver. La manera más común de romper este tipo de cifrado es probando cada uno de los desplazamiento posibles. Como el alfabeto español tiene 25 caracteres se pueden hacer varias pruebas para conocer el numero de desplazamientos que haga mas sentido al momento de decifrar el mensaje con tan solo cinco letras del mensaje. 
@@ -60,8 +60,8 @@ Add personal conclusions
 
 
 ##Equipo
-- Juan Pablo Flores
-- Teamate
+- Flores cortés Juan Pablo 
+- Martinez Naredo Noé       
 
 ##Referencias 
 - Singh, Simon; "Cesar"; *The Black Chamber* ; <http://www.simonsingh.net/The_Black_Chamber/caesar.html>
